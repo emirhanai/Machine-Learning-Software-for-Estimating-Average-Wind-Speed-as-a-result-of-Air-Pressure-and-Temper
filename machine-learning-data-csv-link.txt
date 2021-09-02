@@ -3,5 +3,5 @@ Hi!
 Since the size of the data is higher than 25 megabytes, I decided to upload it to my website. You can access the data from the link below!
 
 
-Data (CSV) link: <a href="https://www.emirhanbulut.com.tr/Machine%20Learning%20Software%20for%20Estimating%20Average%20Wind%20Speed.csv">Data Link</a>
+Data (CSV) link:  https://www.emirhanbulut.com.tr/Machine%20Learning%20Software%20for%20Estimating%20Average%20Wind%20Speed.csv
 
