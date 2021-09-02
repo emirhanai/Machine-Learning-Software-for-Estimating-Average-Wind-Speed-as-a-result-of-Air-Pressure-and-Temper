@@ -44,3 +44,8 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 [DataSource]: https://www.kaggle.com
+
+
+<img src="https://raw.githubusercontent.com/emirhanai/Machine-Learning-Software-for-Estimating-Average-Wind-Speed-as-a-result-of-Air-Pressure-and-Temper/main/average-wind-speed-prediction-of-machine-learning.jpg" alt="Machine-Learning-Software-for-Estimating-Average-Wind-Speed-as-a-result-of-Air-Pressure-and-Temper/main/average-wind-speed-prediction-of-machine-learning">
+
+<img src="https://raw.githubusercontent.com/emirhanai/Machine-Learning-Software-for-Estimating-Average-Wind-Speed-as-a-result-of-Air-Pressure-and-Temper/main/Machine%20Learning%20Software%20for%20Estimating%20Average%20Wind%20Speed%20%E2%80%8B%E2%80%8Bas%20a%20result%20of%20Air%20Pressure%20and%20Temperature%20Measurement%20(Unsupervised%20Learning%20-%20Cluster%20Method).png" alt="Cluster method image of Machine Learning Software for Estiamting Average Wind Speed">
